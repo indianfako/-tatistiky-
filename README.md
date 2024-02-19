@@ -1,5 +1,4 @@
 # -tatistiky-
-Johan fako 1986
 # importujeme potrebné knižnice
 import numpy as np
 import scipy.stats
